@@ -269,3 +269,10 @@ align-self: flex-end ;
 }
 .audio {
 display: none !important ;}
+
+.footer , a {
+    text-decoration: none;
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 14px;
+}
