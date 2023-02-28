@@ -19,6 +19,7 @@ body{
 margin: 0 ;
 height: 100vh ;
 display: flex ;
+flex-direction: column;
 user-select: none ;
 align-items: center ;
 justify-content: center ;
@@ -273,6 +274,6 @@ display: none !important ;}
 .footer , a {
     text-decoration: none;
     margin-top: 20px;
-    color: #FFF;
+    color: black;
     font-size: 14px;
 }
